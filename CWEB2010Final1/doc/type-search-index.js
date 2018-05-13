@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"artists","l":"artist"},{"p":"application","l":"DbController"},{"p":"application","l":"Main"},{"p":"artists","l":"RetrieveFromSite"},{"p":"application","l":"SampleController"},{"p":"artists","l":"Song"}]
